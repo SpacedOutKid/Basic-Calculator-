@@ -52,7 +52,7 @@ mulBtn=Button(window,text='x',font=('courier',18),command=multiplication)
 mulBtn.grid(row=4,column=1,padx=125,pady=30,sticky=W)
 mulBtn.config(width=2)
 
-#This creates the divide button and relates it to the add function
+#This creates the divide button and relates it to the add functionn
 divBtn=Button(window,text='/',font=('courier',18),command=division)
 divBtn.grid(row=4,column=1,padx=235,pady=30,sticky=W)
 divBtn.config(width=2)
